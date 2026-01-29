@@ -21,7 +21,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs" />
 </p>
 
 ### Frontend
