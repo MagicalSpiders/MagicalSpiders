@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chao</h1>
-<h3 align="center">Full-Stack Developer • AI Engineer • System Architect</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Chao;Full-Stack+Developer;AI+Engineer;System+Architect" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MagicalSpiders&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">Building intelligent systems • Designing elite UIs • Engineering the future</h3>
 
 ---
 
@@ -18,21 +17,11 @@
 
 ---
 
-## 🧠 Core Expertise
-
-- Frontend architecture (high-performance UI systems)
-- Backend systems & secure APIs
-- AI model training, fine-tuning & inference pipelines
-- LLM deployment & local inference (RTX 3060)
-- System design & automation pipelines
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,rust,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cs" />
 </p>
 
 ### Frontend
@@ -54,21 +43,21 @@
 
 ## ⚡ Current Focus
 
-- Private LLMs & local inference systems  
-- AI + robotics integration  
-- High-performance frontend architectures  
+- Private LLMs & inference optimization  
 - Autonomous agent frameworks  
+- AI + robotics integration  
+- High-performance frontend systems  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagicalSpiders&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MagicalSpiders&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagicalSpiders&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MagicalSpiders&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,6 +65,3 @@
 ## 🧬 Philosophy
 
 > Build systems that think, learn, and evolve.
-
----
-
