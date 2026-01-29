@@ -13,7 +13,6 @@
 - 🤖 Studying **AI + LLM fine-tuning + robotics integration**
 - 🧪 Strong in **PyTorch, ML pipelines, Kaggle workflows**
 - 🏗 Designing **private LLM systems + autonomous agents**
-- 🎯 Long-term goal: **conscious AI in robotic embodiment**
 
 ---
 
